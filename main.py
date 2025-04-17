@@ -3,8 +3,8 @@ from telegram import Bot
 from datetime import datetime
 import random
 
-TOKEN = "твой_токен"
-USER_IDS = [228193993, 882777450]  # Твои ID и жены
+TOKEN = '7194435988:AAGfGHdjMigOTj14XlANeVtO-QnD0I0yXps'
+USER_IDS = [228193993, 882777450] 
 
 schedule = {
     "07:00": [
